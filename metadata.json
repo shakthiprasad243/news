@@ -1,0 +1,8 @@
+{
+  "name": "skillX | Career Intelligence",
+  "description": "An advanced AI-powered career path intelligence platform for skill gap analysis, personalized learning roadmaps, adaptive interviews, and real-time career coaching.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
